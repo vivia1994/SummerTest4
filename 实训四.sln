@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "抢掠计划", "抢掠计�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1014", "VIJOS-P1014\VIJOS-P1014.vcxproj", "{EDA59FCF-9352-46C0-8A5B-89805EE42D60}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1034", "VIJOS-P1034\VIJOS-P1034.vcxproj", "{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{EDA59FCF-9352-46C0-8A5B-89805EE42D60}.Release|x64.Build.0 = Release|x64
 		{EDA59FCF-9352-46C0-8A5B-89805EE42D60}.Release|x86.ActiveCfg = Release|Win32
 		{EDA59FCF-9352-46C0-8A5B-89805EE42D60}.Release|x86.Build.0 = Release|Win32
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Debug|x64.ActiveCfg = Debug|x64
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Debug|x64.Build.0 = Debug|x64
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Debug|x86.Build.0 = Debug|Win32
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x64.ActiveCfg = Release|x64
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x64.Build.0 = Release|x64
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x86.ActiveCfg = Release|Win32
+		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
