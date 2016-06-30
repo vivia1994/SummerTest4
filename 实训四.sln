@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1014", "VIJOS-P1014\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1034", "VIJOS-P1034\VIJOS-P1034.vcxproj", "{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1540", "VIJOS-P1540\VIJOS-P1540.vcxproj", "{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x64.Build.0 = Release|x64
 		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x86.ActiveCfg = Release|Win32
 		{F6D5C2A1-3494-4DE5-805E-C24BA2C7666F}.Release|x86.Build.0 = Release|Win32
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Debug|x64.ActiveCfg = Debug|x64
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Debug|x64.Build.0 = Debug|x64
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Debug|x86.Build.0 = Debug|Win32
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Release|x64.ActiveCfg = Release|x64
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Release|x64.Build.0 = Release|x64
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Release|x86.ActiveCfg = Release|Win32
+		{0352DEFF-2F99-4375-9FA0-2B7BE3D0BC0B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
