@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VIJOS-P1540", "VIJOS-P1540\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "三角迷宫", "三角迷宫\三角迷宫.vcxproj", "{B93105CC-8BA0-4375-AFDB-D52B5D6604CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conquer a New Region", "Conquer a New Region\Conquer a New Region.vcxproj", "{1FD06D55-3637-4E85-A17A-AB0980B9EB97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{B93105CC-8BA0-4375-AFDB-D52B5D6604CC}.Release|x64.Build.0 = Release|x64
 		{B93105CC-8BA0-4375-AFDB-D52B5D6604CC}.Release|x86.ActiveCfg = Release|Win32
 		{B93105CC-8BA0-4375-AFDB-D52B5D6604CC}.Release|x86.Build.0 = Release|Win32
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Debug|x64.ActiveCfg = Debug|x64
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Debug|x64.Build.0 = Debug|x64
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Debug|x86.ActiveCfg = Debug|Win32
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Debug|x86.Build.0 = Debug|Win32
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Release|x64.ActiveCfg = Release|x64
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Release|x64.Build.0 = Release|x64
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Release|x86.ActiveCfg = Release|Win32
+		{1FD06D55-3637-4E85-A17A-AB0980B9EB97}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
